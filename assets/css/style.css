@@ -908,7 +908,7 @@ section {
 }
 
 .services .iconbox-yellow i {
-  color: #eaeeef;
+  color: #76abf0e7;
 }
 
 .services .iconbox-yellow:hover .icon i {
@@ -916,7 +916,7 @@ section {
 }
 
 .services .iconbox-yellow:hover .icon path {
-  fill: #eaeeef;
+  fill: #76abf0e7;
 }
 
 .services .iconbox-red i {
@@ -932,7 +932,7 @@ section {
 }
 
 .services .iconbox-teal i {
-  color: #a7c4d4;
+  color: #a48adf;
 }
 
 .services .iconbox-teal:hover .icon i {
@@ -940,7 +940,7 @@ section {
 }
 
 .services .iconbox-teal:hover .icon path {
-  fill: #a7c4d4;
+  fill: #a48adf;
 }
 
 /*--------------------------------------------------------------
