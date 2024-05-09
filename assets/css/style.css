@@ -872,7 +872,7 @@ section {
 }
 
 .services .iconbox-blue i {
-  color: #c9d46c;
+  color: #4f6c77;
 }
 
 .services .iconbox-blue:hover .icon i {
@@ -880,7 +880,7 @@ section {
 }
 
 .services .iconbox-blue:hover .icon path {
-  fill: #c9d46c;
+  fill: #4f6c77;
 }
 
 .services .iconbox-orange i {
@@ -908,7 +908,7 @@ section {
 }
 
 .services .iconbox-yellow i {
-  color: #ffce63;
+  color: #eaeeef;
 }
 
 .services .iconbox-yellow:hover .icon i {
@@ -916,7 +916,7 @@ section {
 }
 
 .services .iconbox-yellow:hover .icon path {
-  fill: #ffce63;
+  fill: #eaeeef;
 }
 
 .services .iconbox-red i {
@@ -932,7 +932,7 @@ section {
 }
 
 .services .iconbox-teal i {
-  color: #7e7f6a;
+  color: #a7c4d4;
 }
 
 .services .iconbox-teal:hover .icon i {
@@ -940,7 +940,7 @@ section {
 }
 
 .services .iconbox-teal:hover .icon path {
-  fill: #7e7f6a;
+  fill: #a7c4d4;
 }
 
 /*--------------------------------------------------------------
