@@ -33,6 +33,22 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+
+.greater-than {
+  display: inline-block;
+  font-size: 36px; /* Размер символа ">" */
+  color: #011426; /* Цвет символа ">" */
+  margin-right: 5px; /* Отступ справа от символа ">" */
+  font-family: "Open Sans", sans-serif;
+}
+
+.purecounter {
+  display: inline-block;
+  font-size: 36px;
+  color: #011426;
+}
+
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -476,7 +492,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -856,7 +872,7 @@ section {
 }
 
 .services .iconbox-blue i {
-  color: #47aeff;
+  color: #C9D46C;
 }
 
 .services .iconbox-blue:hover .icon i {
@@ -864,11 +880,11 @@ section {
 }
 
 .services .iconbox-blue:hover .icon path {
-  fill: #47aeff;
+  fill: #C9D46C;
 }
 
 .services .iconbox-orange i {
-  color: #ffa76e;
+  color: #ff8b61;
 }
 
 .services .iconbox-orange:hover .icon i {
@@ -876,11 +892,11 @@ section {
 }
 
 .services .iconbox-orange:hover .icon path {
-  fill: #ffa76e;
+  fill: #ff8b61;
 }
 
 .services .iconbox-pink i {
-  color: #e80368;
+  color: #dda99b;
 }
 
 .services .iconbox-pink:hover .icon i {
@@ -888,11 +904,11 @@ section {
 }
 
 .services .iconbox-pink:hover .icon path {
-  fill: #e80368;
+  fill: #dda99b;
 }
 
 .services .iconbox-yellow i {
-  color: #ffbb2c;
+  color: #ffce63;
 }
 
 .services .iconbox-yellow:hover .icon i {
@@ -900,11 +916,11 @@ section {
 }
 
 .services .iconbox-yellow:hover .icon path {
-  fill: #ffbb2c;
+  fill: #ffce63;
 }
 
 .services .iconbox-red i {
-  color: #ff5828;
+  color: #D0A576;
 }
 
 .services .iconbox-red:hover .icon i {
@@ -912,11 +928,11 @@ section {
 }
 
 .services .iconbox-red:hover .icon path {
-  fill: #ff5828;
+  fill: #D0A576;
 }
 
 .services .iconbox-teal i {
-  color: #11dbcf;
+  color: #7E7F6A;
 }
 
 .services .iconbox-teal:hover .icon i {
@@ -924,7 +940,7 @@ section {
 }
 
 .services .iconbox-teal:hover .icon path {
-  fill: #11dbcf;
+  fill: #7E7F6A;
 }
 
 /*--------------------------------------------------------------
